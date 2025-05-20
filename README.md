@@ -52,3 +52,5 @@ while True:
 
 
 <H3> Result:</H3>
+
+Thus, The implementation of speech recognition is executed successfully.
